@@ -1,1 +1,15 @@
+# StoreMcPlugin - By fwt1adhss.dev for Minecraft Java 1.21.1
 
+message:
+  presentOnJoin: false
+
+  text:
+    - '&aVisit our Store: https://your-store-link.com'
+
+  textHover: "Click to visit our store"
+
+  textClick: "https://your-store-link.com"
+
+sound:
+  enabled: false
+  value: "ENTITY_EXPERIENCE_ORB_PICKUP"
